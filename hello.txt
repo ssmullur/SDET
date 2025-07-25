@@ -1,3 +1,1 @@
-Hello, this is my updated Git file.
-Added a second line!
-Contact page functionality added
+This is the footer section.
