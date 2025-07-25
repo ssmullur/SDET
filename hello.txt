@@ -1,1 +1,2 @@
-MY FISRST GIT FILE
+This is my updated Git file.
+Learning Git commit step by step.
