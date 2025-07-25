@@ -1,2 +1,2 @@
-This is from feature branch.
-
+Hello, this is my updated Git file.
+Added a second line!
