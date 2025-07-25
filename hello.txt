@@ -1,2 +1,1 @@
-Hello, this is my updated Git file.
-Added a second line!
+To check the branch switching and commit
